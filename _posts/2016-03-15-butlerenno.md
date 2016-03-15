@@ -1,29 +1,28 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-15T11:14:18.276Z'
-dateModified: '2016-03-15T11:14:05.943Z'
+datePublished: '2016-03-15T12:13:23.603Z'
+dateModified: '2016-03-15T12:13:23.190Z'
 title: BUTLEREN.NO
 author: []
+sourcePath: _posts/2016-03-15-butlerenno.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-butlerenno.md
-published: true
 url: butlerenno/index.html
 _type: Article
 
 ---
-BUTLEREN.NO
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c74a9817ed7998ed0e4e287d5cf14ea511f6c6f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c60a74b-bcdd-4633-9b2e-4a553c0fefa2.jpg)
 
 # BUTLEREN.NO
 
