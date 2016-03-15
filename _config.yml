@@ -1,6 +1,6 @@
 name: BUTLEREN.NO
 favicon: null
-layout_spectrum: 0.5098824077285826
+layout_spectrum: 0.49639
 typography_spectrum: 0.1598407756537199
 title: matchingQUALITY - chooseSERVICE
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#2f3e55'
+    - '#effdfe'
+    - '#5f7390'
+    - '#c49677'
   brandStrength: 0.8220215043984354
   lightness: 0.8431502711027861
   saturation: 0.9199920389801264
