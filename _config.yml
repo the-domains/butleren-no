@@ -1,20 +1,4 @@
-name: BUTLEREN.NO
-favicon: null
-layout_spectrum: 0.49639
 typography_spectrum: 0.33727
-title: matching QUALITY - choose SERVICE
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-64719430-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.08280503377318382
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49639
+analytics:
+  google: UA-64719430-1
+  facebook: null
+  twitter: null
+name: BUTLEREN.NO
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: matching QUALITY - choose SERVICE
+description: matching QUALITY - choose SERVICE
 purpose: []
