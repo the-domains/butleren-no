@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Home page
+    url: 'http://butleren.no'
+    type: external
 favicon: null
 title: matching QUALITY - choose SERVICE
 description: matching QUALITY - choose SERVICE
